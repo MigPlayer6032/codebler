@@ -1,5 +1,5 @@
 {
-  "name": "functionsmapper",
+  "name": "codebler",
   "version": "1.0.0",
   "description": "A collection of apis using npm.",
   "main": "lib/index.js",
