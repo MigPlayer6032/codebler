@@ -6,7 +6,7 @@ A collection of apis using npm.
 Current stable release (**v1.1.9**) requires at least Node.js **12.0.0**
 
 ```
-npm install codeasier
+npm install codebler
 ```
 
 # Apis
