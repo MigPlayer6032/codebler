@@ -1,0 +1,2 @@
+require('./animals');
+require('./minecraft');
