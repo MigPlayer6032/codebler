@@ -8,21 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MigPlayer6032/functionsmapper.git"
+    "url": "git+https://github.com/MigPlayer6032/codebler.git"
   },
   "keywords": [
     "api",
     "functions",
     "map",
     "collection",
-    "apis"
+    "apis",
+    "code",
+    "enabler",
+    "easy"
   ],
   "author": "MigPlayer6032",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MigPlayer6032/functionsmapper/issues"
+    "url": "https://github.com/MigPlayer6032/codebler/issues"
   },
-  "homepage": "https://github.com/EWE07/nampis#readme",
+  "homepage": "https://github.com/MigPlayer6032/codebler#readme",
   "dependencies": {
     "chalk": "^5.0.0",
     "superagent": "^7.1.1"
