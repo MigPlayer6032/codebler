@@ -1,0 +1,30 @@
+{
+  "name": "functionsmapper",
+  "version": "1.0.0",
+  "description": "A collection of apis using npm.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/load.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigPlayer6032/functionsmapper.git"
+  },
+  "keywords": [
+    "api",
+    "functions",
+    "map",
+    "collection",
+    "apis"
+  ],
+  "author": "MigPlayer6032",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MigPlayer6032/functionsmapper/issues"
+  },
+  "homepage": "https://github.com/EWE07/nampis#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "superagent": "^7.1.1"
+  }
+}
